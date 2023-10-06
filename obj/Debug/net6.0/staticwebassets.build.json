@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "KkGf3K9C8YMN0R0PdfMwX82ayWJikZecdL6MjeT4NaM=",
+  "Source": "CRUDApp",
+  "BasePath": "_content/CRUDApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRUDApp\\wwwroot",
+      "Source": "CRUDApp",
+      "ContentRoot": "E:\\Projects\\UdemyASPNET\\CRUDApp\\wwwroot\\",
+      "BasePath": "_content/CRUDApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Projects\\UdemyASPNET\\CRUDApp\\wwwroot\\StyleSheet.css",
+      "SourceId": "CRUDApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\UdemyASPNET\\CRUDApp\\wwwroot\\",
+      "BasePath": "_content/CRUDApp",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
